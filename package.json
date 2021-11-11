@@ -1,7 +1,7 @@
 {
   "name": "@fork-of/git-branch",
   "description": "Get the current branch from the local git repository. Hopefully temporary fork of https://github.com/jonschlinkert/git-branch/",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "homepage": "https://github.com/joscha/git-branch",
   "author": "Joscha Feth (https://github.com/joscha)",
   "repository": "joscha/git-branch",

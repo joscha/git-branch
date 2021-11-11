@@ -1,21 +1,22 @@
-# git-branch [![NPM version](https://img.shields.io/npm/v/git-branch.svg?style=flat)](https://www.npmjs.com/package/git-branch) [![NPM monthly downloads](https://img.shields.io/npm/dm/git-branch.svg?style=flat)](https://npmjs.org/package/git-branch) [![NPM total downloads](https://img.shields.io/npm/dt/git-branch.svg?style=flat)](https://npmjs.org/package/git-branch) [![Linux Build Status](https://img.shields.io/travis/jonschlinkert/git-branch.svg?style=flat&label=Travis)](https://travis-ci.org/jonschlinkert/git-branch)
+# @fork-of/git-branch [![NPM version](https://img.shields.io/npm/v/@fork-of/git-branch.svg?style=flat)](https://www.npmjs.com/package/@fork-of/git-branch) [![NPM monthly downloads](https://img.shields.io/npm/dm/@fork-of/git-branch.svg?style=flat)](https://npmjs.org/package/@fork-of/git-branch) [![NPM total downloads](https://img.shields.io/npm/dt/@fork-of/git-branch.svg?style=flat)](https://npmjs.org/package/@fork-of/git-branch) [![Linux Build Status](https://img.shields.io/travis/jonschlinkert/@fork-of/git-branch.svg?style=flat&label=Travis)](https://travis-ci.org/jonschlinkert/@fork-of/git-branch)
 
 > Get the current branch from the local git repository.
 
-Please consider following this project's author, [Jon Schlinkert](https://github.com/jonschlinkert), and consider starring the project to show your :heart: and support.
+> HOPEFULLY TEMPORARY FORK OF https://github.com/jonschlinkert/git-branch
+
 
 ## Install
 
 Install with [npm](https://www.npmjs.com/):
 
 ```sh
-$ npm install --save git-branch
+$ npm install --save @fork-of/git-branch
 ```
 
 ## Usage
 
 ```js
-const branch = require('git-branch');
+const branch = require('@fork-of/git-branch');
 ```
 
 Optionally pass the cwd (current working directory) as the first argument.
