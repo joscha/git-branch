@@ -1,12 +1,12 @@
 {
-  "name": "git-branch",
-  "description": "Get the current branch from the local git repository.",
-  "version": "2.0.1",
-  "homepage": "https://github.com/jonschlinkert/git-branch",
-  "author": "Jon Schlinkert (http://github.com/https://github.com/jonschlinkert)",
-  "repository": "jonschlinkert/git-branch",
+  "name": "@fork-of/git-branch",
+  "description": "Get the current branch from the local git repository. Hopefully temporary fork of https://github.com/jonschlinkert/git-branch/",
+  "version": "2.1.0",
+  "homepage": "https://github.com/joscha/git-branch",
+  "author": "Joscha Feth (https://github.com/joscha)",
+  "repository": "joscha/git-branch",
   "bugs": {
-    "url": "https://github.com/jonschlinkert/git-branch/issues"
+    "url": "https://github.com/joscha/git-branch/issues"
   },
   "license": "MIT",
   "files": [
